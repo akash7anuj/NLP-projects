@@ -133,7 +133,7 @@ Each prediction includes the detected emotion and its confidence score.
 ---
 
 ## 🧑‍💻 Author
-**Anuj Singh**  
+**Anuj Kumar Singh**  
 Full Stack Developer | AI & Data Science Enthusiast  
 📧 akash7anuj@gmail.com  
 🌐 www.akash7anuj.online
